@@ -4,10 +4,24 @@
 Atualmente sou estudante de Ciência da Computação na PUC-SP, com foco em programação backend e paixão por game design e modding.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://github.com/jv-quintella">
+    <img src="https://github-readme-stats-beige-nu-18.vercel.app/api?username=jv-quintella&theme=dark&v=1" alt="jv-quintella GitHub stats" />
+  </a>
+  <a href="https://github.com/jv-quintella">
+    <img src="https://github-readme-stats-beige-nu-18.vercel.app/api/top-langs/?username=jv-quintella&theme=dark&layout=compact&v=1" alt="Top Languages" />
+  </a>
 </p>
-
-[![jv-quintella GitHub stats](https://github-readme-stats.vercel.app/api?username=jv-quintella&theme=dark)](https://github.com/jv-quintella)
+<p align="left">
+  <a href="https://steamcommunity.com/id/yt_relative" target="_blank">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
