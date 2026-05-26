@@ -1,3 +1,1 @@
-<a href="#">
-  <img src="<img width="1280" height="640" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/0d413656-3261-4056-b90f-502d976a7669" />g" width="100%" alt="Evangelion Banner">
-</a>
+<img src="https://github.com/user-attachments/assets/1636cf98-9304-4e66-815f-ced9c4b2b84b" width="100%" alt="Evangelion Banner">
