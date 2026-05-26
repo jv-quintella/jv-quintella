@@ -1,1 +1,1 @@
-<img width="740" height="247" alt="Eva BANNER" src="https://github.com/user-attachments/assets/1b482d13-fcc9-4fcd-a72a-83b8c52c2ce0" width="100%" alt="Evangelion Banner">
+<img src=img width="740" height="247" alt="Eva BANNER" src="https://github.com/user-attachments/assets/3c88b274-8c89-4ae8-b694-07e5a040baff" width="100%" alt="Evangelion Banner">
