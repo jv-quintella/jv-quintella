@@ -12,7 +12,7 @@ Atualmente sou estudante de Ciência da Computação na PUC-SP, com foco em prog
   </a>
 </p>
 <p align="left">
-  <a href="https://steamcommunity.com/id/yt_relative" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199094397849/" target="_blank">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
   <a href="https://open.spotify.com/user/Relative" target="_blank">
