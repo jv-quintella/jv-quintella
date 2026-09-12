@@ -1,8 +1,5 @@
 <img src="https://github.com/user-attachments/assets/9d1b0235-68f2-47bc-b326-67b1de3f115b" width="100%" alt="Eva BANNER">
 
-### Olá! 👋
-Atualmente sou estudante de Ciência da Computação na PUC-SP, com foco em programação backend e paixão por game design e modding.
-
 <p align="left">
   <a href="https://github.com/jv-quintella">
     <img src="https://github-readme-stats-beige-nu-18.vercel.app/api?username=jv-quintella&theme=dark&v=1" alt="jv-quintella GitHub stats" />
