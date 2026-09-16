@@ -1,10 +1,10 @@
 <img src="https://github.com/user-attachments/assets/9d1b0235-68f2-47bc-b326-67b1de3f115b" width="100%" alt="Eva BANNER">
 <p align="left">
   <a href="https://github.com/jv-quintella">
-    <img height="165" src="https://github-readme-stats-beige-nu-18.vercel.app/api?username=jv-quintella&theme=dark&custom_title=GitHub%20Stats&v=1" alt="jv-quintella GitHub stats" />
+    <img height="165" src="https://github-readme-stats-beige-nu-18.vercel.app/api?username=jv-quintella&theme=dark&hide_title=true&v=3" alt="jv-quintella GitHub stats" />
   </a>
   <a href="https://github.com/jv-quintella">
-    <img height="165" src="https://github-readme-stats-beige-nu-18.vercel.app/api/top-langs/?username=jv-quintella&theme=dark&layout=compact&v=1" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-beige-nu-18.vercel.app/api/top-langs/?username=jv-quintella&theme=dark&layout=compact&v=3" alt="Top Languages" />
   </a>
 </p>
 <p align="left">
